@@ -17,7 +17,7 @@ body {
   overflow: hidden;
   align-items: center;
   justify-content: center;
-  background-color: url("https://jinn-wk.github.io/website/image/Final%20Mental%20Model-02.jpg");
+  background: url("https://jinn-wk.github.io/website/image/Final%20Mental%20Model-02.jpg");
   -webkit-tap-highlight-color: transparent;
   transition: background-color var(--duration);
 }
