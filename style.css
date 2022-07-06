@@ -32,7 +32,8 @@ body {
   position: relative;
   align-items: center;
   justify-content: center;
-  background-color: url("https://jinn-wk.github.io/website/image/Final%20Mental%20Model-02.jpg");
+  background-image: url("./image/Final%20Mental%20Model-02.jpg");
+  background-size: 100% 100%;
 }
 
 .menu__item {
